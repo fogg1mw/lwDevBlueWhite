@@ -252,10 +252,10 @@ a:focus, a:hover {
     border-color: #a1a1a1;
 }
 .btn-group-lg > .btn, .btn-lg {
-    padding: 5px 10px;
+    padding: 8px 8px;
     font-size: 20px;
     line-height: 1.3333333;
-    border-radius: 5px;
+    border-radius: 100px;
 }
 
 /*.fa-bandcamp::before {
